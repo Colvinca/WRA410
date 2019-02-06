@@ -19,7 +19,7 @@ Revise the following section in your README.md file with a short description of 
 4. Use a table to format the Grading Scale on the Assignments page. I used a table but It didnt come out right.
 its set up without a grid around it or between. 
 
-5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs.  I couldnt do this.
+5. Reformat the Student Groups. Use a different color for links, add a title for each group, seperate each student. Use multiple columns for the divs. I seperated each group into different boxes and gave each student their own bulletin for seperation. I kept the color for the names the same as my color scheme. 
 
 6. Add navigation to the Schedule webpage. I took the navigation from the index page and implemented it. 
 
